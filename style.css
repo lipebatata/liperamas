@@ -28,11 +28,11 @@ html, body, canvas {
 	font-size: 1.8em;
 }
 
-#notSupportedMessage {
+.notSupportedMessage {
 	font-size: 1.2em;
 }
 
-#notSupportedMessage em {
+.notSupportedMessage em {
 	color: #888;
 }
 
